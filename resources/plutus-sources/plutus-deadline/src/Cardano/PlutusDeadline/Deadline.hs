@@ -7,7 +7,7 @@
 {-# LANGUAGE TypeFamilies #-}
 {-# LANGUAGE TypeOperators #-}
 
-module Cardano.PlutusExample.Deadline
+module Cardano.PlutusDeadline.Deadline
   ( deadlineScript
   , deadlineScriptShortBs
   ) where
