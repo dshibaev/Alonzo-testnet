@@ -13,7 +13,7 @@
 {-# LANGUAGE TypeFamilies #-}
 {-# LANGUAGE TypeOperators #-}
 
-module Cardano.PlutusExample.DeadlinePolicy
+module Cardano.PlutusDeadline.DeadlinePolicy
   ( deadlineScript
   , deadlineScriptShortBs
   ) where
